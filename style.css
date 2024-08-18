@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bike1{
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    animation: Bike1 7s linear;
+    border-radius: 100%;
+}
+@keyframes Bike1{
+    from{
+        left: 0px;
+    }
+    to{
+        left: 1220px;
+    }
+}
+.bike2{
+    top: 220px;
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    animation: Bike1 5s ease-in;
+    border-radius: 100%;
+}
+@keyframes Bike1{
+    from{
+        left: 0px;
+    }
+    to{
+        left: 1220px;
+    }
+}
+.bike3{
+    top: 370x;
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    animation: Bike1 8s ease-out;
+    border-radius: 100%;
+}
+@keyframes Bike1{
+    from{
+        left: 0px;
+    }
+    to{
+        left: 1220px;
+    }
+}
+.bike4{
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    animation: Bike1 6s linear;
+    border-radius: 100%;
+    top: 540px;
+}
+@keyframes Bike1{
+    from{
+        left: 0px;
+    }
+    to{
+        left: 1220px;
+    }
+}
+.banner{
+    background-color: red;
+    height: 65px;
+    padding-top: 10px;
+}
+/* .boxes{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
+.box4{
+    background-color: yellow;
+}
+.box5{
+    background-color: cyan;
+}
+.box6{
+    background-color: orange;
+}
+.box7{
+    background-color: magenta;
+}
+.box8{
+    background-color: white;
+}
+.box9{
+    background-color: gold;
+}
+.box10{
+    background-color: brown;
+}
+.box11{
+    background-color: purple;
+}
+.box12{
+    background-color: pink;
+} */
